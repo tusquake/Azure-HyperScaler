@@ -1,4 +1,6 @@
 # Azure Hyperscaler Learning Notes
+<img width="1280" height="369" alt="Microsoft_Azure_Logo svg" src="https://github.com/user-attachments/assets/217828e5-e4cb-4d9b-9490-bdee831f670b" />
+
 
 Interview-focused notes for learning **Microsoft Azure**, with **AWS** and **GCP** equivalents for every service, real-world project examples, analogies, and the shell commands used in real projects.
 
